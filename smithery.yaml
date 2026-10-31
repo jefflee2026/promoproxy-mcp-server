@@ -1,0 +1,12 @@
+name: promoproxy-mcp-server
+title: PromoProxy Keyless Remote MCP Server
+description: Keyless Remote MCP Server for live public proxy lists, IP/ASN lookup, proxy latency checker, and No-KYC residential/ISP/datacenter/mobile proxies from $0.44/GB.
+homepage: https://proxy.promo2you.com
+remote:
+  url: https://proxy.promo2you.com/mcp
+  transport: http
+startCommand:
+  type: http
+  configSchema:
+    type: object
+    properties: {}

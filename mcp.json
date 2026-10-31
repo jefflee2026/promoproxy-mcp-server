@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "promoproxy": {
+      "url": "https://proxy.promo2you.com/mcp",
+      "description": "PromoProxy Keyless Remote MCP Server \u2014 Free Proxy List, IP/ASN Lookup & $0.44/GB No-KYC Proxies"
+    }
+  }
+}

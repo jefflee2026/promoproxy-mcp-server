@@ -1,0 +1,16 @@
+{
+  "name": "promoproxy-mcp-server",
+  "version": "1.5.0",
+  "description": "Keyless Remote MCP Server & Free Proxy List API for Claude, Cursor, Windsurf, and AI Agents \u2014 Powered by PromoProxy (https://proxy.promo2you.com)",
+  "homepage": "https://proxy.promo2you.com",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "proxy",
+    "residential-proxies",
+    "web-scraping",
+    "no-kyc",
+    "promoproxy"
+  ]
+}
