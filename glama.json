@@ -1,7 +1,7 @@
 {
   "$schema": "https://glama.ai/mcp/schemas/server.json",
   "maintainers": [
-    "jefflee19971"
+    "jefflee2026"
   ],
   "name": "promoproxy-mcp-server",
   "description": "Keyless Remote MCP Server & No-KYC Residential, ISP, Datacenter & 4G/5G Mobile Proxy Gateway from $0.44/GB (https://proxy.promo2you.com).",
