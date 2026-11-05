@@ -5,6 +5,7 @@
 [![Residential Lite](https://img.shields.io/badge/Residential_Lite-$0.44%2FGB-22c55e)](https://proxy.promo2you.com/pricing)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-@Promo2ProxyBot-38bdf8)](https://t.me/Promo2ProxyBot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![M8ven Score](https://m8ven.ai/badge/mcp/jefflee2026-promoproxy-mcp-server-1vyctl?v=bd5d19dce275025fe2f056ef4adbb2b0)](https://m8ven.ai/mcp/jefflee2026-promoproxy-mcp-server-1vyctl?s=readme)
 
 Official keyless **Remote Model Context Protocol (MCP) Server** and public proxy utility API for **Claude Desktop, Cursor, Windsurf, VS Code, and OpenAI Agents**, powered by [PromoProxy (`https://proxy.promo2you.com`)](https://proxy.promo2you.com).
 
